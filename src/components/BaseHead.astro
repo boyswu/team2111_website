@@ -5,6 +5,7 @@ import ScriptSetup from "./ScriptSetup.astro";
 
 const canonicalURL = new URL(Astro.url.pathname, Astro.site);
 ---
+<head>
 
 <!-- Global Metadata -->
 <meta charset="utf-8" />
@@ -59,3 +60,5 @@ const canonicalURL = new URL(Astro.url.pathname, Astro.site);
 
 <GlobalStyles />
 <ScriptSetup />
+
+</head>
