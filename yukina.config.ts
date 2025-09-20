@@ -8,7 +8,7 @@ const YukinaConfig: Configuration = {
 
   description: "Demo Site",
 
-  site: "https://yukina-blog.vercel.app",
+  site: "https://web.team2111.asia",
 
   locale: "zh-CN", // set for website language and date format
 
@@ -33,7 +33,7 @@ const YukinaConfig: Configuration = {
 
   username: "2111实验室",
   sign: "人工智能培养基地",
-  avatarUrl: "https://s2.loli.net/2025/01/25/FPpTrQSezM8ivbl.webp",
+  avatarUrl: "src\\assets\\images\\avatar.png",
   socialLinks: [
     {
       icon: "line-md:github-loop",
@@ -41,7 +41,7 @@ const YukinaConfig: Configuration = {
     },
     {
       icon: "mingcute:bilibili-line",
-      link: "https://space.bilibili.com/22433608",
+      link: "https://www.bilibili.com",
     },
     {
       icon: "mingcute:netease-music-line",
@@ -54,13 +54,8 @@ const YukinaConfig: Configuration = {
   maxFooterTagChip: 24,
 
   banners: [
-    "https://s2.loli.net/2025/01/25/PBvHFjr5yDu6t4a.webp",
-    "https://s2.loli.net/2025/01/25/6bKcwHZigzlM4mJ.webp",
     "https://s2.loli.net/2025/01/25/H9WgEK6qNTcpFiS.webp",
-    "https://s2.loli.net/2025/01/25/njNVtuUMzxs81RI.webp",
-    "https://s2.loli.net/2025/01/25/tozsJ8QHAjFN3Mm.webp",
     "https://s2.loli.net/2025/01/25/Pm89OveZq7NWUxF.webp",
-    "https://s2.loli.net/2025/01/25/UCYKvc1ZhgPHB9m.webp",
     "https://s2.loli.net/2025/01/25/JjpLOW8VSmufzlA.webp",
   ],
 
