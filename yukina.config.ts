@@ -33,7 +33,7 @@ const YukinaConfig: Configuration = {
 
   username: "2111实验室",
   sign: "人工智能培养基地",
-  avatarUrl: "src//assets//images//avatar.png",
+  avatarUrl: "/images/avatar.png",
   socialLinks: [
     {
       icon: "line-md:github-loop",
