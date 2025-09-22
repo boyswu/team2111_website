@@ -34,14 +34,26 @@ const YukinaConfig: Configuration = {
   banners: [
     {
       kind: "video",
-      src: "/assets/videos/test2.mp4",
+      src: 'https://github.com/boyswu/team2111_website/releases/download/v1.0.0/test.mp4',
       // webm: "/assets/videos/hero_a.webm",
       // poster: "/assets/images/hero_a_poster.jpg",
       autoplay: true, loop: true, muted: true, playsinline: true,
     },
     {
       kind: "video",
-      src: "/assets/videos/test.mp4",
+      src: 'https://github.com/boyswu/team2111_website/releases/download/v1.0.0/test2.mp4',
+      // poster: "/assets/images/hero_b_poster.jpg",
+      autoplay: true, loop: true, muted: true, playsinline: true,
+    },
+    {
+      kind: "video",
+      src: 'https://github.com/boyswu/team2111_website/releases/download/v1.0.0/w2.mp4',
+      // poster: "/assets/images/hero_b_poster.jpg",
+      autoplay: true, loop: true, muted: true, playsinline: true,
+    },
+    {
+      kind: "video",
+      src: 'https://github.com/boyswu/team2111_website/releases/download/v1.0.0/w4.mp4',
       // poster: "/assets/images/hero_b_poster.jpg",
       autoplay: true, loop: true, muted: true, playsinline: true,
     },
@@ -55,6 +67,9 @@ const YukinaConfig: Configuration = {
     "/assets/images/covers/test.webp",
     "/assets/images/covers/test2.webp",
     "/assets/images/covers/preview.gif",
+    "/assets/images/covers/a1.gif",
+    "/assets/images/covers/a2.gif",
+
   ],
 
   slugMode: "HASH",
