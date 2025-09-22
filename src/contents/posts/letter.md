@@ -6,6 +6,8 @@ tags: [大学生活, 学习, 社交, 建议]
 category: 校园分享
 author: 氿柒
 draft: false
+bannerImage: /assets/images/test.webp
+
 ---
 
 # 给学弟学妹的一封信

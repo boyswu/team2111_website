@@ -1,5 +1,19 @@
+
 # Special thanks to:
 
-- [Hexo Shoka theme](https://github.com/amehime/hexo-theme-shoka) for providing design inspiration
 
-- [Astro Fuwari template](https://github.com/saicaca/fuwari) for providing the main design concept and part of the implementation
+在本项目的设计与开发过程中，我们参考和借鉴了开源社区中一些优秀的主题与模板。特别感谢以下项目的启发与支持：
+
+* **[Hexo Shoka theme](https://github.com/amehime/hexo-theme-shoka)**
+  Shoka 主题以其简洁、优雅的排版风格和对细节的高度把控，为本项目的界面设计提供了重要灵感。我们借鉴了其中的配色方案、字体层次以及内容展示方式，使得整体视觉效果更加清爽、现代。
+
+* **[Astro Fuwari template](https://github.com/saicaca/fuwari)**
+  Fuwari 模板不仅提供了主要的设计理念，还在实现细节上为我们节省了大量工作。其轻量化的结构、流畅的用户体验，以及对 Astro 框架特性的充分利用，都直接推动了我们项目的快速成型。
+
+---
+
+## 社区与开源精神
+
+开源社区是我们得以快速开发和迭代的重要力量。通过学习这些优秀项目的思路，我们不仅提升了开发效率，也更深入地理解了现代前端设计的美学与技术结合方式。在此，我们向所有为开源社区贡献的开发者致以最诚挚的感谢。
+
+---
